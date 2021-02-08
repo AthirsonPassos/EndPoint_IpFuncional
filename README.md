@@ -1,0 +1,2 @@
+# EndPoint_IpFuncional
+ Trata-se de um projeto de cadastro de currículo.  Foi desenvolvido um endpoint utilizando o Laravel para realizar o cadastro de alguns dados tais como: nome, telefone, endereço e e-mail e realizar o upload de um arquivo nos formatos PDF ou DOC ou DOCX ou TXT referente a um currículo. Além disso, o projeto conta com o recurso de captura de IP e data / hora da realização. Autor: Athirson Passos
